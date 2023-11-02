@@ -1,6 +1,6 @@
-# Jottr - A simple Blogging Application for Jotting Down Your Ideas.
+# Jottr - Jot Down Your Ideas.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Jottr is a simple blog application just like medium for blogging. 
 
 ## Available Scripts
 
