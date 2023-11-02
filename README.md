@@ -2,9 +2,9 @@
 
 Jottr is a simple blog application just like medium for blogging. 
 
-## Available Scripts
-
-In the project directory, you can run:
+## Installation Guide.
+> Install NodeJS in your Device
+> 
 
 ### `npm start`
 
