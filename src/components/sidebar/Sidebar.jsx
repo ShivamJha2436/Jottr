@@ -10,7 +10,7 @@ export default function Sidebar() {
           src="https://i.pinimg.com/474x/dd/55/0f/dd550fe5358f0a2e8a9c2150edc9826a.jpg"
           alt=""
         />
-        <p>Hi! I'm a part time writer.</p>
+        <p>Hi! I'm a writer.</p>
       </div>
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
