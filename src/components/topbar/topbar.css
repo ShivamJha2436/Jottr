@@ -8,51 +8,57 @@
   align-items: center;
   z-index: 999;
   font-family: "Josefin Sans", sans-serif;
-  z-index: 999;
 }
 
-.topLeft, .topRight {
+.topLeft,
+.topRight {
   flex: 3;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.topCenter{
-  flex: 6;
-}
-
-.topIcon{
+.topIcon {
   font-size: 20px;
   margin-right: 10px;
   color: #444;
   cursor: pointer;
 }
 
-.topImg{
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  object-fit: cover;
+.topCenter {
+  flex: 6;
 }
-.topList{
-  display: flex; 
+
+.topList {
+  display: flex;
   justify-content: center;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.topListItem{
+.topListItem {
   margin-right: 20px;
   font-size: 18px;
-  font-weight: 350;
+  font-weight: 300;
   cursor: pointer;
-}  
+}
 
-.topSearchIcon{
-  font-size: 25px;
-  color: #484848;
+.topListItem:hover{
+    color: gray;
+}
+
+.topImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 15px;
   cursor: pointer;
-  margin-left: 15px;
+}
+
+.topSearchIcon {
+  font-size: 18px;
+  color: #666;
+  cursor: pointer;
 }
